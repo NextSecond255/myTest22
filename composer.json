@@ -1,0 +1,11 @@
+{
+    "name": "whttest/myTest22",
+    "description": "whttest myTest22",
+    "authors": [
+        {
+            "name": "wht",
+            "email": "2550687534@126.com"
+        }
+    ],
+    "require": {}
+}
